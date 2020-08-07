@@ -1,4 +1,13 @@
-### Hi there 👋
+### About me <img src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif" width="32" height="32"></img>
+* Just a tester
+* Enjoy coding
+* Curious about everything
+
+
+<!--
+![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif)
+-->
+
 
 <!--
 **ASCII13/ASCII13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
