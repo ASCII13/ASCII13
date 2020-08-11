@@ -3,7 +3,7 @@
 * Enjoy coding
 * Curious about everything
 
-If you have any questions about the projects, please contact me by issue or **[email](476747909@qq.com)**
+If you have any questions about the projects, please contact me by issue or **[email](476747909@qq.com)**.
 
 
 <!--
