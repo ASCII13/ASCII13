@@ -1,6 +1,5 @@
-### About me <img src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif" width="32" height="32"></img>
+## About me <img src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif" width="32" height="32"></img>
 
-***
 * Just a tester
 * Enjoy coding
 * Curious about everything
