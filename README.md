@@ -2,6 +2,7 @@
 * Just a tester
 * Enjoy coding
 * Curious about everything
+* The dream: make testing easier and more powerful
 
 If you have any questions about the projects, please contact me by issue or **[email](476747909@qq.com)**.
 
