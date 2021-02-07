@@ -5,7 +5,7 @@
 - Curious about everything
 - Make testing easier and more powerful 💪
 
-If you have any questions about the projects, please contact me by issue or **<a href="mailto:476747909@qq.com">email</a>**.
+If you have any question about the projects, please contact me by issue or **<a href="mailto:476747909@qq.com">email</a>**.
 
 <!-- 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ASCII13&theme=darcula)](https://github.com/anuraghazra/github-readme-stats) 
