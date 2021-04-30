@@ -17,7 +17,7 @@ If you have any questions about the projects, please contact me by issue or **<a
 
 <details>
   <summary>My GitHub Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=ASCII13&theme=darcula"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=ASCII13&theme=onedark&show_icons=true"></img>
 </details>
 
 
