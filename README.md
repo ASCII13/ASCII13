@@ -1,9 +1,8 @@
 ## About me
 
 - Just a Tester
-- Enjoy coding 👨🏻‍💻
 - Curious about everything
-- Make testing easier and more powerful 💪
+- Enjoy making interesting ideas into open source projects
 
 If you have any questions about the projects, please contact me by issue or **<a href="mailto:ascii13@kwafoo.com.cn">ASCII13@kwafoo.com.cn</a>**.
 
