@@ -2,7 +2,7 @@
 
 - Just a Tester
 - Curious about everything
-- Enjoy making interesting ideas into open source projects
+- Enjoy bringing ideas to life
 
 If you have any questions about the projects, please contact me by issue or **<a href="mailto:ascii13@kwafoo.com.cn">ASCII13@kwafoo.com.cn</a>**.
 
